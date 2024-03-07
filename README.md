@@ -1,1 +1,1 @@
-# unity-ml-agents-animation
+This repository contains the code used in animation synthesis using Unity ML-Agents. Tested using Unity 2022.3.7f1 and Python 3.8. The samples from [Bandai](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset/tree/master) dataset should be added into the project manually.
